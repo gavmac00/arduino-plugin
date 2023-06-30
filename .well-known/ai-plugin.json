@@ -15,5 +15,5 @@
   },
   "logo_url": "https://clownfish-app-nf3t8.ondigitalocean.app/.well-known/logo.png",
   "contact_email": "gavinmacdonnell2719@gmail.com",
-  "legal_info_url": "https://clownfish-app-nf3t8.ondigitalocean.app/legal-info.json"
+  "legal_info_url": "https://clownfish-app-nf3t8.ondigitalocean.app/.well-known/legal-info.json"
 }
