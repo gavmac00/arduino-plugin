@@ -1,0 +1,21 @@
+Terms of Service
+By using our service, you agree to these terms and conditions. We reserve the right to modify these terms at any time, and you agree to abide by the most recent version.
+
+Privacy Policy
+We respect your privacy and commit to protect the personal information that you share with us. We adhere to the following principles to protect your privacy:
+
+We do not collect more personal information than is necessary;
+We only use your personal information for the purposes we specify in this Privacy Policy, unless you agree otherwise;
+We do not keep your personal information if it is no longer needed; and
+Other than as we have explained in this Privacy Policy, we do not share your personal information without your consent.
+Cookie Policy
+We may use cookies to enhance your experience on our service. You have the option to disable cookies through your individual browser options.
+
+Copyright Notice
+Unless otherwise noted, all content and information on this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+Disclaimers
+The service and its content are provided on an "as is" basis. We make no representations or warranties of any kind with respect to the service, including any representation or warranty that the use of the service will be timely, uninterrupted or error-free or operate in combination with any other hardware, software, system, or data.
+
+Contact Information
+If you have any questions or concerns about this legal information, please contact us at gavinmacdonnell2719@gmail.com.
