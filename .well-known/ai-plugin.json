@@ -1,6 +1,6 @@
 {
   "schema_version": "v1",
-  "name_for_model": "arduino_db",
+  "name_for_model": "arduino_docs_db",
   "name_for_human": "Arduino Docs",
   "description_for_model": "Plugin for searching through the arduino documentation to find answers to questions and retrieve relevant information for programming with arduino boards. Use it whenever a user asks something that is related to arduino.",
   "description_for_human": "Search through the open-source Arduino documentation.",
